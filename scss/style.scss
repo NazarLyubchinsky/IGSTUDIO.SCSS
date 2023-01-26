@@ -105,7 +105,7 @@ header {
 
 	.btn-talk {
 		position: relative;
-		background: #e3b748;
+		background: $bgc-color;
 		border-radius: 43px;
 		border: none;
 		right: 27%;
@@ -295,7 +295,7 @@ header {
 		padding: 10px;
 	}
 	.button {
-		background: #e3b748;
+		background: $bgc-color;
 		color: #000000;
 		border-radius: 25px;
 		width: 121px;
@@ -527,7 +527,7 @@ header {
 		flex-wrap: wrap;
 	}
 	#content-sanfole {
-		background: #e3b748;
+		background: $bgc-color;
 		border-radius: 14px;
 		width: 250px;
 		align-items: center;
@@ -549,7 +549,7 @@ header {
 			width: 100px;
 		}
 		#content-sanfole {
-			background: #e3b748;
+			background: $bgc-color;
 		}
 		#content-sanfole,
 		#Haldone {
@@ -618,7 +618,7 @@ header {
 		position: relative;
 		top: 23px;
 		left: 110px;
-		background-color: #e3b748;
+		background-color: $bgc-color;
 		text-align: center;
 		width: 20px;
 		height: 20px;
@@ -693,7 +693,7 @@ header {
 	}
 	.btn-send {
 		cursor: pointer;
-		background-color: #e3b748;
+		background-color: $bgc-color;
 		width: 115px;
 		height: 45px;
 		border-radius: 0px 8px 8px 0px;
@@ -716,7 +716,7 @@ header {
 		}
 		.btn-send {
 			cursor: pointer;
-			background-color: #e3b748;
+			background-color: $bgc-color;
 			width: 205px;
 			height: 45px;
 			border-radius: 10px;
